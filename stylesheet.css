@@ -1,0 +1,33 @@
+body	{
+			color:#b957c3;
+			background-color: #61c357;
+			font-size: 18pt;
+			font-family: Veranda; Geneva, arial, helvetica, sans-serif;
+		}
+
+
+p 		{color: black; font-size: 10pt; }
+a {text-decoration: none;}
+h1	{ font-style: italic; font-weight:bold; text-align: center; }
+h2 { text-align: center; }
+h5	{text-align: center; font-size: 34pt; padding-top: 20%; }
+
+
+#menu { width: 100%; text-align: center; text-decoration: none; text-transform: uppercase; }
+
+#header {
+    padding:10px;
+    background:#fdd;
+}
+#pic1 { width:33.3333%; background-color:Yellow; float:left;height:350px; }						
+#pic2 { width:33.3333%; background-color:Black; float:left; height:350px; }						
+#pic3 { width:33.3333%; background-color:Yellow; float:left; height:350px; }						
+#box1 { width:33.3333%; background-color:Yellow; float:left; height:350px; text-align: center; }						
+#box2 { width:33.3333%; background-color:Yellow; float:left; height:350px; text-align: center; }
+#box3{ width:33.3333%; background-color:Yellow; float:left; height:350px; text-align: center; }	
+}
+#footer {
+    clear:both;
+    padding:10px;
+    background:#ff9;
+}
